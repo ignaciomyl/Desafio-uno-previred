@@ -29,6 +29,6 @@ Ejecución por Maven
 
 La llamada del servicio se debe hacer a la siguiente URL:
     
-       localhost:8081/obtenerPeriodos
+       http://localhost:8081/obtenerPeriodos
 
 Una vez se llame al servicio, este generará las fechas restantes de la generación realizada por GDD.
